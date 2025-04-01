@@ -1,14 +1,14 @@
 {
   "banner": {
-    "image_url": "https://appsecmedia.github.io/Custom-Ads/BannerAD.jpeg",
+    "image_url": "https://appsecmedia.github.io/Custom-Ads/Bannerad.jpg",
     "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   },
   "interstitial": {
-    "image_url": "https://appsecmedia.github.io/Custom-Ads/interstitialAD.png",
+    "image_url": "https://appsecmedia.github.io/Custom-Ads/interstitialad.jpg",
     "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   },
   "video": {
-    "video_url": "https://appsecmedia.github.io/Custom-Ads/videoAD.mp4",
+    "video_url": "https://appsecmedia.github.io/Custom-Ads/videoad.mp4",
     "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   }
 }
