@@ -1,14 +1,14 @@
 {
   "banner": {
-    "image_url": "https://tarun-gamedev.github.io/Test-CustomAds/BannerAD.jpeg",
-    "click_url": "https://www.youtube.com/watch?v=VcaQQPyGMtI"
+    "image_url": "https://appsecmedia.github.io/Custom-Ads/BannerAD.jpeg",
+    "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   },
   "interstitial": {
-    "image_url": "https://tarun-gamedev.github.io/Test-CustomAds/interstitialAD.png",
-    "click_url": "https://www.youtube.com/watch?v=gh3FyLT7WVg"
+    "image_url": "https://appsecmedia.github.io/Custom-Ads/interstitialAD.png",
+    "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   },
   "video": {
-    "video_url": "https://tarun-gamedev.github.io/Test-CustomAds/videoAD.mp4",
-    "click_url": "https://www.youtube.com/watch?v=6IM0mrxu0fk"
+    "video_url": "https://appsecmedia.github.io/Custom-Ads/videoAD.mp4",
+    "click_url": "https://tarungamedev.itch.io/subway-surfersclone"
   }
 }
