@@ -1,7 +1,7 @@
 {
   "banner": {
     "image_url": "https://appsecmedia.github.io/Custom-Ads/Bannerad.jpg",
-    "click_url": "https://track.appsecmedia.com/c?o=21248226&m=2642&a=61910&aff_click_id={aff_click_id}&sub_aff_id={sub_aff_id}"
+    "click_url": "https://appsecmedia.com"
   },
   "interstitial": {
     "image_url": "https://appsecmedia.github.io/Custom-Ads/interstitialad.jpg",
